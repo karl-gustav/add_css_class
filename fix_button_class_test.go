@@ -1,10 +1,6 @@
 package main
 
-import (
-	"bytes"
-	"testing"
-)
-
+/*
 func TestFixEmptyButton(t *testing.T) {
 	expected := []byte("<button class=\"old-style\"> ")
 	result := fixTagClasses([]byte("<button> "), "button", "old-style")
@@ -29,3 +25,4 @@ func TestFixButtonWithClassAndNewline(t *testing.T) {
 		t.Errorf("expected %s but got %s", expected, result)
 	}
 }
+*/
